@@ -3,6 +3,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
+# A link to my website is https://minesweeper-game-swart.vercel.app/
 
 ![1](https://user-images.githubusercontent.com/49879416/202821477-d323f129-100f-4d0e-8f21-81b6a38156fb.PNG)
 
